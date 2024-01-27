@@ -1,2 +1,0 @@
-# EXAMEN-SYS1
-WeChall
